@@ -7,6 +7,7 @@ The goal was to practice the basics of 2D gameplay: player movement, ball moveme
 
 ---
 
+
 ## Play the game
 
 The playable version is available on itch.io:
@@ -150,3 +151,4 @@ Il a principalement été créé pour travailler les bases de la programmation g
 
 Ce dépôt contient le projet source Godot, avec les scripts, scènes, paramètres du projet, assets et presets d’export.
 
+<img width="1081" height="1078" alt="image pong" src="https://github.com/user-attachments/assets/bddc6bec-08e3-46d9-a0e6-5847c1367d1f" />
